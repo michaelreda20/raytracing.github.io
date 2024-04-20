@@ -1,0 +1,7 @@
+- all the basic features
+- tried to work on hierarchy accelaration
+- tried to work on the textures
+- multisampling
+- light sampling
+- lens sampling
+- video
